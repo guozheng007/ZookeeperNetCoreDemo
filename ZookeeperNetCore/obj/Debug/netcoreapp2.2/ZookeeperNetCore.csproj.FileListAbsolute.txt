@@ -1,0 +1,11 @@
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\bin\Debug\netcoreapp2.2\ZookeeperNetCore.deps.json
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\bin\Debug\netcoreapp2.2\ZookeeperNetCore.runtimeconfig.json
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\bin\Debug\netcoreapp2.2\ZookeeperNetCore.runtimeconfig.dev.json
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\bin\Debug\netcoreapp2.2\ZookeeperNetCore.dll
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\obj\Debug\netcoreapp2.2\ZookeeperNetCore.csprojAssemblyReference.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\obj\Debug\netcoreapp2.2\ZookeeperNetCore.csproj.CoreCompileInputs.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\obj\Debug\netcoreapp2.2\ZookeeperNetCore.AssemblyInfoInputs.cache
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\obj\Debug\netcoreapp2.2\ZookeeperNetCore.AssemblyInfo.cs
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\bin\Debug\netcoreapp2.2\ZookeeperNetCore.pdb
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\obj\Debug\netcoreapp2.2\ZookeeperNetCore.dll
+C:\Users\gz\Documents\Visual Studio 2017\Projects\ZookeeperNetCoreDemo\ZookeeperNetCore\obj\Debug\netcoreapp2.2\ZookeeperNetCore.pdb
